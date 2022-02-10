@@ -1,5 +1,5 @@
 
-const Report = (props) => {
+const Report = () => {
 
 }
 
